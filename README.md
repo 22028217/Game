@@ -1,4 +1,4 @@
-# Musical Memory
+# Color Memory
 ## Mô tả lối chơi:
 - Qua mỗi màn chơi sẽ có một chuổi các màu cùng âm thanh tương ứng, người chơi sẽ phải ghi nhớ và bấm chuột vào các ô màu theo đúng thứ tự.
 - Nhấn sai màu sẽ kết thúc trò chơi.
