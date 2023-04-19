@@ -7,10 +7,9 @@
 - Độ khó: có 3 mức độ khó lần lượt là 3,5,7 màu càng nhiều màu độ phức tạp của chuỗi càng tăng
 ## Thư viện:
 1. bits/stdc++.h
-2. bits/stdc++.h
-3. SDL.h
-4. SDL_image.h
-5. SDL_mixer.h
+2. SDL.h
+3. SDL_image.h
+4. SDL_mixer.h
 
 ## Tác giả: 
 1. Hoàng Hữu Phước
